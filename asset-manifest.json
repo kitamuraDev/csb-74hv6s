@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://kitamuradev.github.io/csb-74hv6s/static/js/main.ebe6bf04.chunk.js",
+    "main.js.map": "https://kitamuradev.github.io/csb-74hv6s/static/js/main.ebe6bf04.chunk.js.map",
+    "runtime-main.js": "https://kitamuradev.github.io/csb-74hv6s/static/js/runtime-main.93d920ba.js",
+    "runtime-main.js.map": "https://kitamuradev.github.io/csb-74hv6s/static/js/runtime-main.93d920ba.js.map",
+    "static/js/2.25c3a0aa.chunk.js": "https://kitamuradev.github.io/csb-74hv6s/static/js/2.25c3a0aa.chunk.js",
+    "static/js/2.25c3a0aa.chunk.js.map": "https://kitamuradev.github.io/csb-74hv6s/static/js/2.25c3a0aa.chunk.js.map",
+    "index.html": "https://kitamuradev.github.io/csb-74hv6s/index.html",
+    "precache-manifest.bd6d520b3495d2ea9d1e8ace27f83b8f.js": "https://kitamuradev.github.io/csb-74hv6s/precache-manifest.bd6d520b3495d2ea9d1e8ace27f83b8f.js",
+    "service-worker.js": "https://kitamuradev.github.io/csb-74hv6s/service-worker.js",
+    "static/js/2.25c3a0aa.chunk.js.LICENSE.txt": "https://kitamuradev.github.io/csb-74hv6s/static/js/2.25c3a0aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93d920ba.js",
+    "static/js/2.25c3a0aa.chunk.js",
+    "static/js/main.ebe6bf04.chunk.js"
+  ]
+}
